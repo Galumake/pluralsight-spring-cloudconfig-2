@@ -1,1 +1,1 @@
-"# pluralsight-spring-cloudconfig-2" 
+"# pluralsight-spring-cloudconfig" 
